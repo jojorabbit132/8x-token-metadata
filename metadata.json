@@ -1,7 +1,19 @@
 {
-    "name": "8x",
-    "symbol": "8x",
-    "description": "The official 8x token for trading and staking.",
-    "image": "https://raw.githubusercontent.com/jojorabbit132/8x-token-metadata/main/logo.png",
-    "decimals": 9
+  "name": "8x",
+  "symbol": "8x",
+  "description": "8x is the official token of 8x Capital.",
+  "image": "https://raw.githubusercontent.com/jojorabbit132/8x-token-metadata/main/logo.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "collection": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/jojorabbit132/8x-token-metadata/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": null
+  }
 }
